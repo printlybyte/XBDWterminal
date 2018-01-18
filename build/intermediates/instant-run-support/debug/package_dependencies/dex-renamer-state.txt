@@ -1,0 +1,16 @@
+#Thu Oct 26 09:45:18 CST 2017
+renamed.4=classes3.dex
+renamed.3=classes5.dex
+renamed.2=classes4.dex
+renamed.1=classes.dex
+base.4=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_f487d06025b6121005d9ec947bff25e142a9b8d8
+renamed.0=classes2.dex
+base.3=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\locSDK_6.13_9407baa59c1f3dd8a73e44ef4e2d5c9925ecb3fe
+base.2=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_ebd4169a5a5f44216720e41a2e660f7ebf6a0dc2
+base.1=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_11b1ea662cf697677f2542c7c3e970b049040927
+base.0=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_dc01c7b46d5d44ab9c897687e5fe4467998791c6
+file.4=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_f487d06025b6121005d9ec947bff25e142a9b8d8\\classes.dex
+file.3=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\locSDK_6.13_9407baa59c1f3dd8a73e44ef4e2d5c9925ecb3fe\\classes.dex
+file.2=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_ebd4169a5a5f44216720e41a2e660f7ebf6a0dc2\\classes.dex
+file.1=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_11b1ea662cf697677f2542c7c3e970b049040927\\classes.dex
+file.0=G\:\\studioworkspcse\\XBDWterminal\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_dc01c7b46d5d44ab9c897687e5fe4467998791c6\\classes.dex

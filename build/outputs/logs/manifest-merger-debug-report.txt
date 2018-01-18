@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:2:1-113:12
+INJECTED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:2:1-113:12
+INJECTED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:2:1-113:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\8b85577da9ea8558d2b1711d69634ecf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\149eff7ab46b59122ec24678e87ece25\AndroidManifest.xml:17:1-24:12
+INJECTED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:2:1-113:12
+INJECTED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:2:1-113:12
+	package
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:3:5-42
+	android:versionName
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:5:5-30
+		INJECTED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml
+		INJECTED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:4:5-28
+		INJECTED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml
+		INJECTED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml
+uses-sdk
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\8b85577da9ea8558d2b1711d69634ecf\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\8b85577da9ea8558d2b1711d69634ecf\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\149eff7ab46b59122ec24678e87ece25\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\149eff7ab46b59122ec24678e87ece25\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:22:22-72
+uses-permission#android.permission.INTERNET
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:24:22-64
+uses-permission#android.permission.READ_LOGS
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:27:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:29:22-70
+uses-permission#android.permission.READ_CONTACTS
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:36:5-72
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:36:22-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:37:5-70
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:37:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:38:5-67
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:38:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:39:5-67
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:39:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:40:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:41:5-80
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:41:22-77
+application
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:45:5-111:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\8b85577da9ea8558d2b1711d69634ecf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\8b85577da9ea8558d2b1711d69634ecf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\149eff7ab46b59122ec24678e87ece25\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\149eff7ab46b59122ec24678e87ece25\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:49:9-41
+	android:icon
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:48:9-38
+	android:allowBackup
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:47:9-35
+	android:theme
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:50:9-51
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:46:9-44
+service#com.baidu.location.f
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:51:9-58:19
+	android:process
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:54:13-38
+	android:enabled
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:53:13-35
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:52:13-48
+intent-filter#com.baidu.location.service_v2.2
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:55:13-57:29
+action#com.baidu.location.service_v2.2
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:56:17-74
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:56:25-71
+service#com.baidu.baidulocationdemo.LocationService
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:60:9-64:19
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:60:18-49
+intent-filter#com.baidu.baidulocationdemo.LocationService
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:61:13-63:29
+action#com.baidu.baidulocationdemo.LocationService
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:62:17-86
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:62:25-83
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:69:9-71:64
+	android:value
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:71:13-61
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:70:13-52
+activity#com.baidu.baidulocationdemo.LocationActivity
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:74:9-84:20
+	android:label
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:77:13-45
+	android:excludeFromRecents
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:76:13-46
+	android:theme
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:78:13-59
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:75:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:79:13-83:29
+action#android.intent.action.MAIN
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:80:17-69
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:80:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:82:27-74
+service#com.baidu.baidulocationdemo.afterRebootService
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:86:9-55
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:86:18-52
+receiver#com.baidu.baidulocationdemo.BootBroadcastReceivera
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:88:9-95:20
+	android:exported
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:90:13-37
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:89:13-51
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:91:13-94:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:92:17-79
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:92:25-76
+service#com.baidu.baidulocationdemo.MyService
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:97:9-100:39
+	android:enabled
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:99:13-35
+	android:exported
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:100:13-36
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:98:13-38
+activity#com.baidu.moudle.NotifationBuild
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:102:9-105:62
+	android:excludeFromRecents
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:104:13-46
+	android:theme
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:105:13-59
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:103:13-60
+service#com.baidu.baidulocationdemo.DeleteService
+ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:107:9-110:47
+	android:enabled
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:109:13-35
+	android:exported
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:110:13-36
+	android:name
+		ADDED from G:\studioworkspcse\XBDWterminal\AndroidManifest.xml:108:13-42

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\studioworkspcse\XBDWterminal\libss\locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="G:\studioworkspcse\XBDWterminal\build\intermediates\pre-dexed\release\locSDK_6.13_9407baa59c1f3dd8a73e44ef4e2d5c9925ecb3fe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\studioworkspcse\XBDWterminal\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa398a9d233382f23731a54bc5e5a6c5c7e52ca7">
+        <dex dex="G:\studioworkspcse\XBDWterminal\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_da65043dc5c84703b2af0ad76dadf7447dc86f5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\studioworkspcse\XBDWterminal\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="G:\studioworkspcse\XBDWterminal\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5d9f5980cba6a48306d7f2d2a7e2527164c9543e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\studioworkspcse\XBDWterminal\libss\locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="G:\studioworkspcse\XBDWterminal\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.13_9407baa59c1f3dd8a73e44ef4e2d5c9925ecb3fe\classes.dex" />
+    </item>
+
+</items>
